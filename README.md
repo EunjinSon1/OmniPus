@@ -1,2 +1,23 @@
 # OmniPus
-OmniPus: Towards Real-World Omnidirectional Stereo Matching with Multimodal Depth Prior-Based Sampling
+
+<p align="center"><img src = "" width="40%" height="40%"></p>
+
+## Abstract
+We introduce the first real-world dataset, OmniPus, for multi-view fisheye-based omnidirectional stereo matching.
+
+You can download our dataset in [[GoogleDrive]()]
+
+
+## Folder structure
+Our dataset consists of 13 sequences, each containing multi-view RGB images and a depth map with the following structure: 
+```bash
+OmniPus/
+└──case/
+   ├── resize_cam1       # Resized front camera RGB images
+   ├── resize_cam2       # Resized right camera RGB images
+   ├── resize_cam3       # Resized back camera RGB images
+   ├── resize_cam4       # Resized left camera RGB images
+   └── omnidepth_gt      # Depth maps in .tiff format saved as inverse depth
+```
+For access to the original images and point cloud files, please contact us.
+
