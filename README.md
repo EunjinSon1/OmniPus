@@ -12,12 +12,14 @@ You can download our dataset in [[GoogleDrive]()]
 Our dataset consists of 13 sequences, each containing multi-view RGB images and a depth map with the following structure: 
 ```bash
 OmniPus/
-└──case/
+├──case/
    ├── resize_cam1       # Resized front camera RGB images
    ├── resize_cam2       # Resized right camera RGB images
    ├── resize_cam3       # Resized back camera RGB images
    ├── resize_cam4       # Resized left camera RGB images
    └── omnidepth_gt      # Depth maps in .tiff format saved as inverse depth
-```
+├──calibration           # Calibration parameters in .yaml format
+└──mask                  # Masks for fisheye camera 
+``` 
 For access to the original images and point cloud files, please contact us.
 
