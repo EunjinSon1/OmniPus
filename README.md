@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5746917f-19eb-4f56-8261-b49aedc1ef28" align="center" width="40%">
-  <img src="https://github.com/user-attachments/assets/fd2d31b2-fb78-43ee-877b-06c62fbe2dff" align="center" width="40%">
+  <img src="https://github.com/user-attachments/assets/bb7f1ca5-6c34-4d78-9679-566e687a0351" align="center" width="40%">
 </p>
 
 ## Abstract
