@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d4b499fc-e06a-471e-84a6-3860b37db520" align="center" width="40%">
   <img src="https://github.com/user-attachments/assets/28f02048-1846-404c-adfa-d999bb9284dd" align="center" width="40%">
-  <figcaption align="center">2개 이미지 띄우기</figcaption>
 </p>
 
 
